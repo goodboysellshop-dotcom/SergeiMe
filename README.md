@@ -1,6 +1,6 @@
 # SergeiMe
 
-                                               Backend Developer | Systems Enthusiast | Linux Customizer
+                                          Backend Developer | Systems Enthusiast | Linux Customizer
 
    Специализируюсь на системной и прикладной работе: пишу быстрый код на Rust и создаю автоматизацию/ботов 
 
